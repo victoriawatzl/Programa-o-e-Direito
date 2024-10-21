@@ -1,0 +1,21 @@
+Phyton:
+# Nome do arquivo: saudacao.py
+
+# Imprime a mensagem no console
+print("Bom dia, victoria")
+
+Java:
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+// The main method must be in a class named "Main".
+class Main {
+    public static void main(String[] args) {
+        System.out.println("Bom dia, victoria");
+    }
+}
+
+TypeScript:
+const message:string = "Bom dia, victoria";
+console.log(message);
