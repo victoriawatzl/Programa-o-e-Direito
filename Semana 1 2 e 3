@@ -1,0 +1,74 @@
+Semana 1, 2 e 3.
+Algoritmo: Um algoritmo é uma sequência de passos ou instruções claramente definidas que visam resolver um problema específico ou realizar uma tarefa. Esses passos são organizados de maneira lógica e precisa, e são executados por computadores ou humanos para alcançar um resultado desejado. Por exemplo, um algoritmo de busca pode ser usado para encontrar um item específico em uma lista. (Cormen et al., 2009; Cormen, 2013).
+Referências:
+"Introduction to Algorithms" – Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, e Clifford Stein. MIT Press.
+"Algorithms Unlocked" – Thomas H. Cormen. MIT Press.
+
+Inteligência Artificial (IA): Inteligência Artificial (IA) é o campo da ciência da computação que se dedica à criação de sistemas ou máquinas que simulam a inteligência humana. Esses sistemas podem aprender com dados, reconhecer padrões, tomar decisões e melhorar suas habilidades ao longo do tempo. Exemplos incluem assistentes virtuais como Siri ou Alexa, e sistemas de recomendação em plataformas como Netflix (Russell & Norvig, 2020; Goodfellow et al., 2016).
+Referências:
+"Artificial Intelligence: A Modern Approach" – Stuart Russell e Peter Norvig. Pearson.
+"Deep Learning" – Ian Goodfellow, Yoshua Bengio, e Aaron Courville. MIT Press.
+
+Nuvem: A nuvem, ou computação em nuvem, refere-se à entrega de serviços de computação, como armazenamento, processamento e software, através da internet ("nuvem"). Isso permite que os usuários acessem e utilizem recursos computacionais sem a necessidade de possuir e gerenciar infraestrutura física. Exemplos incluem serviços como Amazon Web Services (AWS) e Google Cloud. (Collins, 2017; Erl et al., 2013).
+Referências:
+"Architecting the Cloud: Design Decisions for Microsoft Azure" – Michael J. Collins. Wiley.
+"Cloud Computing: Concepts, Technology & Architecture" – Thomas Erl, Zaigham Mahmood, e g. Puttini. Prentice Hall.
+
+Servidor (Computação): Um servidor é um computador ou sistema que fornece recursos, dados, serviços ou programas a outros computadores, conhecidos como clientes, através de uma rede. Os servidores são essenciais para a infraestrutura da internet, permitindo o funcionamento de websites, armazenamento de dados e serviços de e-mail. (Russel & Crawford, 2019; Nemeth et al., 2010).
+Referências:
+"Microsoft Windows Server Administration Fundamentals" – Charlie Russel e Sharon Crawford. Microsoft Press.
+"Linux Administration Handbook" – Evi Nemeth, Garth Snyder, Trent R. Hein, Ben Whaley, e Deborah S. D. A. DeMillo. Prentice Hall.
+
+Dados: Dados são informações coletadas que podem ser analisadas ou usadas para tomar decisões. Em computação, dados referem-se a qualquer informação que pode ser processada ou armazenada por um computador, como textos, números, imagens e vídeos. Os dados são a base para a análise e tomada de decisões em muitas áreas, incluindo negócios, ciência e tecnologia. (Provost & Fawcett, 2013; Kimball & Ross, 2013).
+Referências:
+"Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking" – Foster Provost e Tom Fawcett. O'Reilly Media.
+"The Data Warehouse Toolkit: The Definitive Guide to Dimensional Modeling" – Ralph Kimball e Margy Ross. Wiley.
+
+Informação: Informação refere-se a dados que foram processados e organizados de forma a ter significado e relevância para quem os recebe. Enquanto dados são apenas fatos brutos, a informação é o resultado da análise e contextualização desses dados, proporcionando um entendimento mais profundo e útil. A informação pode ser utilizada para apoiar a tomada de decisões, resolver problemas e oferecer insights estratégicos em diversas áreas, como negócios, ciência e tecnologia. A qualidade da informação depende da precisão, clareza e relevância dos dados que a sustentam, e seu valor é amplificado quando é apresentada de maneira acessível e compreensível (MacKay, 2003; Gallaugher, 2013).
+Referências:
+"Information Theory, Inference, and Learning Algorithms" – David J.C. MacKay. Cambridge University Press.
+"Information Systems: A Manager's Guide to Harnessing Technology" – John Gallaugher. Flat World Knowledge.
+
+Banco de Dados: Um banco de dados é um sistema estruturado para armazenar, gerenciar e recuperar informações de maneira eficiente. Ele organiza dados em tabelas, colunas e linhas, facilitando a manipulação e consulta de grandes volumes de informações. Bancos de dados podem ser relacionais, usando SQL para definir e manipular dados em tabelas inter-relacionadas, ou não relacionais, oferecendo flexibilidade para armazenar dados não estruturados e variados formatos. Eles são essenciais para a operação de aplicações empresariais, sistemas de gerenciamento de conteúdo e muitas outras soluções que requerem armazenamento e processamento organizado de informações (Silberschatz et al., 2019; Sadalage & Fowler, 2012).
+Referências:
+"Database System Concepts" – Abraham Silberschatz, Henry Korth, e S. Sudarshan. McGraw-Hill Education.
+"NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence" – Pramod J. Sadalage e Martin Fowler. Addison-Wesley.
+
+Neutralidade da Rede: A neutralidade da rede é o princípio de que os provedores de serviços de internet (ISPs) devem tratar todo o tráfego na internet de forma igualitária, sem discriminar ou priorizar conteúdos, sites, plataformas ou aplicações específicas. Isso significa que ISPs não devem bloquear, limitar ou promover o acesso a qualquer serviço ou conteúdo na web. A neutralidade da rede é crucial para garantir um ambiente online aberto e competitivo, permitindo que todos os usuários e serviços tenham a mesma oportunidade de alcançar e interagir com o público. Sem essa neutralidade, há o risco de criação de barreiras para a inovação e a igualdade no acesso à informação (Siemiatycki, 2019; Yoo, 2017).
+Referências:
+"The Net Neutrality Debate: A Case Study Approach" – Matti Siemiatycki. Routledge.
+"Network Neutrality: A Professor's Guide to the Debate" – Christopher S. Yoo. MIT Press.
+
+Sistema Operacional: Um sistema operacional (SO) é o software fundamental que gerencia o hardware do computador e fornece uma interface para que os usuários e aplicações interajam com ele. Ele controla a execução de programas, a alocação de recursos, a gestão de arquivos e a comunicação entre o hardware e o software. Exemplos de sistemas operacionais incluem Windows, macOS, Linux e Android. O SO é responsável por tarefas essenciais, como o gerenciamento de memória, a coordenação de periféricos e a segurança do sistema, e fornece a plataforma sobre a qual outras aplicações podem ser executadas, garantindo que o hardware e o software funcionem em harmonia (Silberschatz et al., 2018; Tanenbaum, 2015).
+Referências:
+"Operating System Concepts" – Abraham Silberschatz, Henry Korth, e S. Sudarshan. Wiley.
+"Modern Operating Systems" – Andrew S. Tanenbaum. Pearson.
+
+
+Memória (Computação): Em computação, memória refere-se aos componentes e sistemas usados para armazenar dados e instruções temporariamente enquanto um computador está operando. A memória principal, ou RAM (Random Access Memory), é volátil e é usada para armazenar dados que o processador está utilizando ativamente. Há também a memória de armazenamento secundário, como discos rígidos e SSDs, que retêm dados de forma não volátil, mesmo quando o computador está desligado. A eficiência e a capacidade da memória são cruciais para o desempenho do sistema, pois afetam diretamente a velocidade e a capacidade com que os programas e dados podem ser acessados e processados (Patterson & Hennessy, 2017; Jacob et al., 2012).
+Referências:
+"Computer Organization and Design: The Hardware/Software Interface" – David Patterson e John Hennessy. Morgan Kaufmann.
+"Memory Systems: Cache, DRAM, Disk" – Bruce Jacob, Spencer Ng, e David Wang. Morgan Kaufmann.
+
+A LGPD, Lei Geral de Proteção de Dados Pessoais, possui o intuito de proteger os direitos fundamentais de liberdade e de privacidade, e a livre formação da personalidade de cada indivíduo. Esta lei exigiu que muitas empresas tivessem que se adaptar a estas novas regras de privacidade de dados, incluindo os data centers. Data centers eram salas, prédios ou instalações físicas que abrigavam infraestrutura de TI para construir, executar e fornecer aplicações e serviços, e para armazenar e gerenciar os dados associados a essas aplicações e serviços. Atualmente, os data centers deixaram de ser instalações locais de propriedade privada e rigorosamente controladas, que abrigavam infraestrutura de TI tradicional para uso exclusivo de uma empresa, para instalações remotas ou redes de instalações de propriedade de provedores de serviços de nuvem que abrigam infraestrutura de TI virtualizada para uso compartilhado uso de várias empresas e clientes.
+
+Primeiramente, tiveram que adotar a metodologia Privacy By Design que implica integrar a proteção de dados pessoais em todos os projetos e sistemas desde sua concepção, abrangendo também a arquitetura dos Data Centers. Para proteger os dados armazenados, os Data Centers devem investir em redundância e segurança física, como controle de acesso, além de utilizar tecnologias de segurança virtual, como criptografia e firewalls.
+Os Data Centers devem atender a vários requisitos da LGPD, como mapear dados, manter sistemas atualizados, monitorar recursos, controlar o acesso e treinar funcionários. Garantir a integridade e disponibilidade das informações é crucial. Certificações internacionais, como ISO 27000 e PCI DSS, ajudam a promover uma política de cibersegurança mais robusta.
+Embora os Data Centers não processem diretamente os dados dos usuários, são responsáveis por proteger fisicamente os ambientes onde esses dados são armazenados e geridos, alinhando suas operações aos princípios da LGPD. Com a crescente valorização dos dados pessoais e a maior conscientização sobre sua proteção, as empresas devem investir em tecnologias avançadas para prevenir ameaças e garantir a segurança da informação.
+
+O formato de arquivo define como as informações são codificadas para armazenamento e recuperação em um computador, podendo ser aberto ou fechado, livre ou proprietário. Formatos proprietários são controlados por empresas específicas, o que pode limitar o acesso e a interoperabilidade dos dados, pois esses formatos exigem o software da empresa para abertura e edição. Exemplos incluem .docx (Microsoft Word) e .psd (Adobe Photoshop).
+Em contraste, formatos abertos seguem padrões publicamente disponíveis e podem ser implementados por qualquer software. Isso facilita o acesso e a interoperabilidade dos dados, permitindo que eles sejam lidos e utilizados por diferentes plataformas e ferramentas. Exemplos incluem .html5 para web, .odt para documentos de texto, e .csv para planilhas.
+Formatos abertos garantem acesso a longo prazo aos dados e promovem a competição, ao contrário dos formatos proprietários, que podem restringir a liberdade de uso e modificação dos dados. Padrões abertos como HTML5 e PDF/A são desenvolvidos de forma transparente, com especificações acessíveis e sem taxas de royalty, permitindo uma maior liberdade na implementação e uso dos dados.
+Para recursos educacionais, a escolha de formatos abertos é crucial para garantir a editabilidade e a capacidade de remixar o conteúdo. Formatos como .odt, .ods e .odp são recomendados para documentos, planilhas e apresentações, respectivamente. Formatos de áudio como .mp3 e vídeo como .mp4 também são indicados, pois permitem ampla compatibilidade e fácil acesso.
+A Lei Geral de Proteção de Dados (LGPD) estabelece que dados tornados anteriormente públicos pelo titular podem ser tratados sem novo consentimento, mas qualquer compartilhamento com terceiros requer consentimento adicional, salvo exceções previstas na lei. A LGPD deve ser aplicada com base na finalidade, boa-fé e interesse público que justificam a disponibilização dos dados. Ela também se relaciona com a Lei de Acesso à Informação (LAI) e princípios constitucionais que garantem o direito à informação, salvo em casos de sigilo necessário para a segurança pública. Especialistas apontam que, apesar dos parâmetros da LGPD, ainda há debate sobre quais dados pessoais devem ser considerados públicos, e a Autoridade Nacional de Proteção de Dados (ANPD) deve trabalhar com a sociedade para regular e esclarecer essas questões.
+
+MENDES, E. Veja quais são os impactos da LGPD para os Data Centers. 
+Disponível em: <https://www.lgpdbrasil.com.br/veja-quais-sao-os-impactos-da-lgpd-para-os-data-centers/>. Acesso em: 20 ago. 2024.
+
+LGPD. Disponível em: <https://www.gov.br/esporte/pt-br/acesso-a-informacao/lgpd>. Acesso em: 20 ago. 2024.
+
+O que é um data center? Disponível em: <https://www.ibm.com/br-pt/topics/data-centers>. Acesso em: 20 ago. 2024.
+
+Guia sobre Recursos Educacionais Abertos. Disponível em: <https://campusvirtual.fiocruz.br/portal/guiarea/OpenFormats.html>. Acesso em: 20 ago. 2024.
+
+SERPRO-SERVIÇO FEDERAL DE PROCESSAMENTO DE DADOS. Dados públicos. Disponível em: <https://www.serpro.gov.br/lgpd/menu/protecao-de-dados/dados-publicos-lgpd>. Acesso em: 20 ago. 2024.
